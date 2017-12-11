@@ -119,6 +119,11 @@ add address=127.0.0.1 name=www.u1trkqf.com
 add address=127.0.0.1 name=yeah-mobile.com
 add address=127.0.0.1 name=2016-2017darkonline.site
 add address=127.0.0.1 name=find.magicadsroute.com
+add address=127.0.0.1 name=cmdts.ksmobile.com
+add address=127.0.0.1 name=s2.youtube.com
+add address=127.0.0.1 name=securepubads.g.doubleclick.net
+add address=127.0.0.1 name=t.appsflyer.com
+add address=127.0.0.1 name=stats.appsflyer.com
 add address=127.0.0.1 regexp=ad.*
 add address=127.0.0.1 regexp=ads.*
 add address=127.0.0.1 regexp=track.*
