@@ -124,6 +124,8 @@ add address=127.0.0.1 name=s2.youtube.com
 add address=127.0.0.1 name=securepubads.g.doubleclick.net
 add address=127.0.0.1 name=t.appsflyer.com
 add address=127.0.0.1 name=stats.appsflyer.com
+add address=127.0.0.1 name=popmyads.com
+add address=127.0.0.1 name=qqpilihan.com
 add address=127.0.0.1 regexp=ad.*
 add address=127.0.0.1 regexp=ads.*
 add address=127.0.0.1 regexp=track.*
