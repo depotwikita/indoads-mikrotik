@@ -1,3 +1,4 @@
+/ip dns static
 add address=127.0.0.1 name=2016-2017darkonline.site
 add address=127.0.0.1 name=9clubasia.com
 add address=127.0.0.1 name=a.teads.tv
