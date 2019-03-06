@@ -186,6 +186,7 @@ add address=127.0.0.1 name=jasaiklan.com
 add address=127.0.0.1 name=javaiklan.com
 add address=127.0.0.1 name=jillsclickcorner.com
 add address=127.0.0.1 name=jjxsdkphpcwu.com
+add address=127.0.0.1 name=jomys.xyz
 add address=127.0.0.1 name=js.ad-stir.com
 add address=127.0.0.1 name=jsc.mgid.com
 add address=127.0.0.1 name=juda0vnw.celi.gdn
