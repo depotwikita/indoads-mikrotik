@@ -342,6 +342,7 @@ add address=127.0.0.1 name=www.ionwin88.net
 add address=127.0.0.1 name=www.judibolanet.com
 add address=127.0.0.1 name=www.mgid.com
 add address=127.0.0.1 name=www.outbrain.com
+add address=127.0.0.1 name=www.pokerpedia.us
 add address=127.0.0.1 name=www.translationbuddy.com
 add address=127.0.0.1 name=www.u1trkqf.com
 add address=127.0.0.1 name=xbfk51p7.review
