@@ -80,6 +80,7 @@ add address=127.0.0.1 name=cdn.run-syndicate.com
 add address=127.0.0.1 name=cdnstatic.detik.com
 add address=127.0.0.1 name=cfasync.ga
 add address=127.0.0.1 name=cjsab.com
+add address=127.0.0.1 name=click.accesstrade.co.id
 add address=127.0.0.1 name=clickforfreeandready2updating.bid
 add address=127.0.0.1 name=clickmedia.co.id
 add address=127.0.0.1 name=clickredirection.com
@@ -102,6 +103,7 @@ add address=127.0.0.1 name=dewsburg.info
 add address=127.0.0.1 name=digitalmerkat.info
 add address=127.0.0.1 name=dk7rftbivnkgr.cloudfront.net
 add address=127.0.0.1 name=dolohen.com
+add address=127.0.0.1 name=downloadgot.com
 add address=127.0.0.1 name=dqqulesm3pfse.cloudfront.net
 add address=127.0.0.1 name=dubshub.com$script,third-party
 add address=127.0.0.1 name=dulcetcgvcxr.com
@@ -202,6 +204,7 @@ add address=127.0.0.1 name=lokeriklan.com
 add address=127.0.0.1 name=m.9clubasia.com
 add address=127.0.0.1 name=macarier.review
 add address=127.0.0.1 name=masteriklan.net
+add address=127.0.0.1 name=masternaga99.com
 add address=127.0.0.1 name=medi8.genieesspv.jp
 add address=127.0.0.1 name=mediab.uy
 add address=127.0.0.1 name=mesiniklan.andipublisher.com
@@ -278,6 +281,7 @@ add address=127.0.0.1 name=settings.crashlytics.com
 add address=127.0.0.1 name=sidikiwinnings.webcam
 add address=127.0.0.1 name=sitti.co.id
 add address=127.0.0.1 name=situsiklanbaris.com
+add address=127.0.0.1 name=slotsbig777.com
 add address=127.0.0.1 name=ssl.google-analytics.com
 add address=127.0.0.1 name=sspintrafmsmt.com
 add address=127.0.0.1 name=ssp.zryydi.com
@@ -291,6 +295,7 @@ add address=127.0.0.1 name=sync.aralego.com
 add address=127.0.0.1 name=sync.search.spotxchange.com
 add address=127.0.0.1 name=s.youtube.com
 add address=127.0.0.1 name=taboola.com
+add address=127.0.0.1 name=tangkasnet.cool
 add address=127.0.0.1 name=t.appsflyer.com
 add address=127.0.0.1 name=teliad.com
 add address=127.0.0.1 name=tgw-pmir.3g.qq.com
@@ -333,6 +338,7 @@ add address=127.0.0.1 name=www.google-analytics.com
 add address=127.0.0.1 name=www.googletagservices.com
 add address=127.0.0.1 name=www.gotrack1.es
 add address=127.0.0.1 name=www.headwaydigital.com
+add address=127.0.0.1 name=www.ionwin88.net
 add address=127.0.0.1 name=www.judibolanet.com
 add address=127.0.0.1 name=www.mgid.com
 add address=127.0.0.1 name=www.outbrain.com
