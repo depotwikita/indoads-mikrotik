@@ -70,6 +70,7 @@ add address=127.0.0.1 name=bes-t-to-p-applicatio-and-dev-online.site
 add address=127.0.0.1 name=big.kingcontests.win
 add address=127.0.0.1 name=bisa88.com
 add address=127.0.0.1 name=bmnet-ads.com
+add address=127.0.0.1 name=browsergames2019.com
 add address=127.0.0.1 name=bunchofwinners.win
 add address=127.0.0.1 name=cas.criteo.com
 add address=127.0.0.1 name=cd8iw9mh.cricket
@@ -314,9 +315,11 @@ add address=127.0.0.1 name=translationbuddy.com
 add address=127.0.0.1 name=trc.taboola.com
 add address=127.0.0.1 name=trdks.com
 add address=127.0.0.1 name=trk.cpaoptimizer.com
+add address=127.0.0.1 name=trk.yexmox.com
 add address=127.0.0.1 name=trndoffers.com
 add address=127.0.0.1 name=tummiarunzpf.com
 add address=127.0.0.1 name=twap.eu
+add address=127.0.0.1 name=undef8trust.com
 add address=127.0.0.1 name=uoarbhxfyygn.com
 add address=127.0.0.1 name=u-on.eu
 add address=127.0.0.1 name=usa.ime.cootek.com
